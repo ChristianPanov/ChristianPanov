@@ -2,7 +2,7 @@
 
 ### Hello everyone, I'm Chris 👋
 
-I’m currently working on lwlog - a very fast logging library. Feel free to check it out and don't be afraid to contribute and to post issues, I encourage you. The more people contribute to that project, the better contribution we all make to the open-source community and to the programming world.
+I’m currently working on lwlog - a very fast logging library. Feel free to check it out and don't be afraid to contribute and to post issues, I encourage you
 
 I am interested in crafting library solutions in C++ and graphics programming.
 Future projects of mine include a 2D rendering solution for developing 2D interfaces and a 3D game engine. And probably a couple of smaller projects between them.

@@ -1,5 +1,3 @@
-[![Christian's github stats](https://github-readme-stats.vercel.app/api?username=ChristianPanov)](https://github.com/ChristianPanov/github-readme-stats)
-
 ### Hello everyone, I'm Chris 👋
 
 I’m currently working on lwlog - a very fast logging library. Feel free to check it out and don't be afraid to contribute and to post issues, I encourage you
